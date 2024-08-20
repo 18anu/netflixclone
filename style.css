@@ -1,0 +1,327 @@
+body{
+    background-color: black;
+}
+#bgimg{
+    opacity: 0.3;
+    height: 34em;
+    width: 76em;
+}
+.nb{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: -37em;
+    
+}
+#logo{
+    height: 11.6em;
+    position: relative;
+    float: left;
+    left: 6em;
+}
+.cars{
+    background-color: black;
+    color: white;
+    position: relative;
+    left: 50em;
+    top: 5em;
+}
+#btn{
+    background-color: red;
+    color: white;
+    position: relative;
+    border: solid red 0.1;
+    border-radius: 0.3em;
+    position: relative;
+    top:4em;
+    left: 40em;
+    height: 2em;
+    width: 5em;
+    font-size: 1rem;
+    font-weight: 550;
+    border-left-color: red;
+    border-top-color: red;
+}
+.ctn{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    float: left;
+    justify-content: center;
+    left: 15em;
+    color: white;
+    top: -29em;
+    text-align: center;
+
+
+}
+#ct1{
+    font-size: 2.6em;
+    font-weight: 970;
+    font-family:Arial, Helvetica, sans-serif;
+    position: relative;
+    
+}
+#ct2{
+    font-size: 1.5em;
+    font-weight: 450;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2.4;
+
+}
+#ct3{
+    position: relative;
+    font-size: 1.3em;
+    font-weight: 300;
+    top: 0.4em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ct4{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    top: 2em;
+    left: 9em;
+    
+}
+#btn2{
+    background-color: red;
+    color: white;
+    border: solid red 0.1;
+    border-radius: 1em;
+
+}
+#hr{
+    position: relative;
+    top: -20em;
+    float: left;
+    width: 100%;
+    height: 0.3em;
+    background-color: grey;
+}
+.cti1{
+    color: white;
+    position: relative;
+    float: right;
+    right: 400px;
+    top: -70px;
+    
+    
+    
+
+}
+#par{
+    position: relative;
+    top: -100px;
+    float: left;
+    right: -95px;
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    width: -50px;
+    
+    
+}
+#par1{
+    position: relative;
+    top: -40px;
+    float: left;
+    right: 300px;
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 0.4;
+    font-weight: 400;
+    
+}
+
+.secimg{
+    position: relative;
+    top: -300px;
+    float:right;
+    right: -140px;
+    height: 0.1em;
+    width: 0.2em;
+}
+#video{
+        position: relative;
+        top:-386px;
+        float:right;
+        right: -555px;
+        
+}
+#hr1{
+    position: relative;
+    top:2.6em;
+    float: left;
+    width: 100%;
+    height: 0.3em;
+    background-color: grey;
+
+}
+.cti2{
+    color: white;
+    position: relative;
+    float: right;
+    right: 200px;
+    top: 300px;
+    
+    
+
+}
+.secimg1{
+    position: relative;
+    top: 100px;
+    float:left;
+    left: -40px;
+    height: 0.1em;
+    width: 1em;
+}
+#par3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    position: relative;
+    float:right;
+    right:20px;
+    top: -169px;
+    font-weight: 900;
+    line-height: 0.3;
+}
+#par4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    position: relative;
+    float: right;
+    right: -460px;
+    top: 50px;
+    line-height: 0.3;
+
+}
+#hr2{
+    position: relative;
+    top:380px;
+    float: left;
+    width: 110%;
+    height: 0.4em;
+    background-color: grey;
+
+}
+.cti3{
+    color: white;
+    position: relative;
+    float:left;
+    left:145px ;
+    top: 400px;
+}
+#par5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    position: relative;
+    float: left;
+    top: 120px;
+    font-weight: 800;
+}
+#par6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.4rem;
+    position: relative;
+    float: left;
+    top:189px ;
+    right: 490px;
+    line-height: 0.3;
+    
+    
+
+}
+.secimg2{
+    position:relative;
+    float: right;
+    top: 400px;
+    right: -60px;
+    height: min-content;
+    width: min-content;
+}
+#video2{
+    position: relative;
+    float: right;
+    top: -550px;
+    right: 120px;
+    z-index: -2;
+    height: 29em;
+    width: 25em;
+}
+#hr3{
+    position: relative;
+    top:-80px;
+    float: left;
+    width: 110%;
+    height: 0.3em;
+    background-color: grey;
+
+
+}
+.cti4{
+    color: white;
+    display: flex;
+    flex-direction: column;
+
+}
+#par7{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.6rem;
+    position: relative;
+    float: left;
+    top: 1100px;
+    font-weight: 800;
+    right: -665px;
+    line-height: 0.3;
+}
+#par8{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    position: relative;
+    float: left;
+    top:1090px ;
+    right: -665px;
+    line-height: 0.3;
+
+}
+.secimg3{
+    position: relative;
+    float: left;
+    top: 100px;
+    height: 0.01em;
+    width: 0.01em;
+
+}
+#hr4{
+    position: relative;
+    top:565px;
+    float: left;
+    width: 110%;
+    height: 0.3em;
+    background-color: grey;
+
+}
+.cti5{
+    color: white;
+    position: relative;
+    float: left;
+    top: 580px;
+    right: -300px;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+
+}
+#ct8{
+    background-color: black;
+    
+    color: white;
+    height:5em ;
+    width:25em ;
+    border: solid grey 1px;
+    border-radius: 0.3rem;
+    font-size: 1.2em;
+
+}
